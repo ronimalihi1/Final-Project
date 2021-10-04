@@ -72,7 +72,7 @@ def main():
     
 
           
-    st.title("Simple Login App")
+    st.title("Simple Login App tt")
 
     menu = ["Home","Login","SignUp"]
     choice = st.sidebar.selectbox("Menu",menu)
